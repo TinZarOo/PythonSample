@@ -1,0 +1,10 @@
+﻿a = 1
+a-> Variable, index, key
+= -> assign
+1 -> value
+
+Datatype- int (integer), string (text), float (dex)
+
+int - 1,2,3
+string word -> "Hello" "World"
+float - 0.1,20.1

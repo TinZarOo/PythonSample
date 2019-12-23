@@ -1,0 +1,18 @@
+﻿username - TinZarOo
+email - mikitkit1994@gmail.com
+password -123456789@gmailcom
+
+
+
+git init
+git add .
+git config --global user.email "useremail"
+git config --global user.name "username"
+git commit -m "first commit"
+git remote add origin https://gitub.com/TinZarOo/PythonSample.git
+git push -u origin master
+
+git add .
+git commit -m "second commit"
+git push
+
