@@ -88,7 +88,7 @@ while run:
             man.jumpCount -= 1
         else:
             man.isJump = False
-            man.jumpCount = 0
+            man.jumpCount = 10
             
     redrawGameWindow()
 
